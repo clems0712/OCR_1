@@ -65,6 +65,10 @@ public class MainActivity extends AppCompatActivity {
                 KPrefModel.INSTANCE.setUserMail(mEmailEdit.getText().toString());
 
 
+                Intent GameActivityIntent = new Intent(MainActivity.this, GameActivity.class);
+                startActivity(GameActivityIntent);
+
+
             }
         });
 

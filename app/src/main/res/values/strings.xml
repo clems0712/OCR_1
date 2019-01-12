@@ -4,4 +4,12 @@
     <string name="connexion">Connexion</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
+    <string name="Q1">Pourquoi faut il travailler à la maison ?</string>
+    <string name="Q2">Pour Réussir</string>
+    <string name="Q3">Pour devenir vraiment compétent dans ton domaine et tout niquer !!!</string>
+    <string name="Q4">Pour avoir une bonne note</string>
+    <string name="Q5">Je sais pas Wallah</string>
+    <string name="Choice">Choix</string>
+    <string name="Good">Bonne réponse ! </string>
+    <string name="Bad">Et non ptit connard </string>
 </resources>
